@@ -6,12 +6,13 @@
 
 ### Junseop Kim
 - 🏫 성동고등학교 (2012.03 ~ 2015. 02)
-- 🏫 명지전문대학교 졸업 (2015.03 ~ 2020. 02)
+- 🏫 명지전문대학교 (2015.03 ~ 2020. 02)
 - 💊 그린스토어 근무 (2020.01 ~ 2021.02)
 
 ![email](https://img.shields.io/badge/ggi4111@naver.com-yellow?logo=messenger&logoColor=fff)
 
 ![github](https://img.shields.io/badge/JsKim4-grey?logo=github&logoColor=fff)
+
 
 
 ### 기술 스택
